@@ -292,16 +292,6 @@ The app will open in your default browser at `http://localhost:8501`
 - **Per-Origin Performance Breakdown** - Tests generalization across institutions
 - **Confusion Matrices** - Visual comparison of prediction errors
 
-------------------------------------------------------------------------
-
-## Author
-
-**Wahid Hashem**\
-CMSE 830 - Foundations of Data Science\
-Michigan State University
-
-------------------------------------------------------------------------
-
 ## License
 
 This project uses publicly available data from the UCI Machine Learning Repository. Please cite the original data sources if using this work.
